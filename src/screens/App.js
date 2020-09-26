@@ -10,13 +10,15 @@ function App() {
   const [currentBlockHeight, setCurrentBlockHeight] = useState(0);
 
 
-  useEffect(async() => {
-      const [balance,block] = await Promise.all([
-          getCurrentBalance(contractAddress),
-          getCurrentBlock(),
-      ]);
-      setCurrentBalance( parseInt(balance, 16));
-      setCurrentBlockHeight( parseInt(block, 16));
+  useEffect(() => {
+      ( async () => {
+          const [balance,block] = await Promise.all([
+              getCurrentBalance(contractAddress),
+              getCurrentBlock(),
+          ]);
+          setCurrentBalance( parseInt(balance, 16));
+          setCurrentBlockHeight( parseInt(block, 16));
+      })();
   },[]);
 
   console.log(currentBalance);
