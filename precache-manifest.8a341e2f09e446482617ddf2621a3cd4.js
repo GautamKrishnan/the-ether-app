@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32c56f2d76dea5722227d520f9c8341e",
+    "revision": "840f6d0d23c88dacfa7cdc6e80e8c95e",
     "url": "/the-ether-app/index.html"
   },
   {
-    "revision": "0f30cf0aad4f1b262d4a",
+    "revision": "a13bf489142bdc567f6f",
     "url": "/the-ether-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-ether-app/static/js/2.ec4f5533.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f30cf0aad4f1b262d4a",
-    "url": "/the-ether-app/static/js/main.56ccc366.chunk.js"
+    "revision": "a13bf489142bdc567f6f",
+    "url": "/the-ether-app/static/js/main.44d95613.chunk.js"
   },
   {
     "revision": "778cf15cfe41261d7749",
