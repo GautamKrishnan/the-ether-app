@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-ether-app/static/css/main.a3ef0558.chunk.css",
+    "main.css": "/the-ether-app/static/css/main.d606b803.chunk.css",
     "main.js": "/the-ether-app/static/js/main.1b697c34.chunk.js",
     "main.js.map": "/the-ether-app/static/js/main.1b697c34.chunk.js.map",
     "runtime-main.js": "/the-ether-app/static/js/runtime-main.7938491c.js",
@@ -8,16 +8,16 @@
     "static/js/2.f9a0c4e7.chunk.js": "/the-ether-app/static/js/2.f9a0c4e7.chunk.js",
     "static/js/2.f9a0c4e7.chunk.js.map": "/the-ether-app/static/js/2.f9a0c4e7.chunk.js.map",
     "index.html": "/the-ether-app/index.html",
-    "precache-manifest.082b56a08e7c10c881cdb5c0fa9ea392.js": "/the-ether-app/precache-manifest.082b56a08e7c10c881cdb5c0fa9ea392.js",
+    "precache-manifest.5b198b6ce603f0758aa20fba574ef24a.js": "/the-ether-app/precache-manifest.5b198b6ce603f0758aa20fba574ef24a.js",
     "service-worker.js": "/the-ether-app/service-worker.js",
-    "static/css/main.a3ef0558.chunk.css.map": "/the-ether-app/static/css/main.a3ef0558.chunk.css.map",
+    "static/css/main.d606b803.chunk.css.map": "/the-ether-app/static/css/main.d606b803.chunk.css.map",
     "static/js/2.f9a0c4e7.chunk.js.LICENSE.txt": "/the-ether-app/static/js/2.f9a0c4e7.chunk.js.LICENSE.txt",
     "static/media/Ethereum_Classic_Logo.svg": "/the-ether-app/static/media/Ethereum_Classic_Logo.ccaf6601.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7938491c.js",
     "static/js/2.f9a0c4e7.chunk.js",
-    "static/css/main.a3ef0558.chunk.css",
+    "static/css/main.d606b803.chunk.css",
     "static/js/main.1b697c34.chunk.js"
   ]
 }
