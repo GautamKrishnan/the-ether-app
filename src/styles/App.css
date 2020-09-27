@@ -6,12 +6,12 @@
 .App-logo {
   height: 25vmin;
   pointer-events: none;
-  padding-bottom: 20px;
+  padding-bottom: 3%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 15s linear;
   }
 }
 
@@ -31,15 +31,16 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotateY(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotateY(360deg);
   }
 }
 
 .Div-text {
     overflow: hidden;
+    text-align: center;
 }
 
 .Align-left{
@@ -48,6 +49,6 @@
 
 .Align-right{
     float: right;
-    margin-left: 10px;
+    margin-left: .5vw;
     color: #00C852;
 }

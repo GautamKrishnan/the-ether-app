@@ -20,7 +20,7 @@ function App() {
           setCurrentBalance( (parseInt(balance, 16) * Math.pow(10,(-18))).toFixed(9));
           setCurrentBlockHeight( parseInt(block, 16));
       })();
-  },[]);
+  },[contractAddress]);
 
   return (
     <div className="App">
